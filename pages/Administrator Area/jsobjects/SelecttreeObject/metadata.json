@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "SelecttreeObject",
+    "pageId": "Administrator Area",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Administrator Area_SelecttreeObject",
+  "deleted": false,
+  "gitSyncId": "63dabe258d72a948eacdc24c_63dae4001d880472b56afe0e"
+}
